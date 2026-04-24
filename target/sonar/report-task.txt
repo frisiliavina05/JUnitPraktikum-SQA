@@ -1,0 +1,7 @@
+organization=frisiliavina05
+projectKey=frisiliavina05_JUnitPraktikum-SQA
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.86098
+dashboardUrl=https://sonarcloud.io/dashboard?id=frisiliavina05_JUnitPraktikum-SQA
+ceTaskId=AZ3A2JF8ZaqOZC6Nhth3
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ3A2JF8ZaqOZC6Nhth3
